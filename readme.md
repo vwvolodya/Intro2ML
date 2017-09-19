@@ -1,7 +1,7 @@
-##This is a tutorial repo. 
+## This is a tutorial repo. 
 
 
-####Objectives
+#### Objectives
 
 * get basic intuition about preparing data for classification
 * get familiar with simple classifiers from `sklearn`
